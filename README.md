@@ -1,6 +1,6 @@
 # GoSamples
 
-<img src="https://github.com/wangvance/Go_Samples/logo/logo.png" width=100>
+<img src="https://github.com/wangvance/Go_Samples/blob/master/logo/logo.png" width=100>
 
 ----
 
