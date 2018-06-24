@@ -12,3 +12,5 @@ When you're learning a new language, there's a natural tendency to write code as
 	* $ go run helloworld.go  
 	或者  
 	* $ go build helloworld.go & ./helloworld
+* echo
+	* 输出命令行参数
